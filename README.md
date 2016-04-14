@@ -1,6 +1,8 @@
 # devio
 
-> An awesome Kibana plugin
+> [D3 Liquid Fill Gauge](http://bl.ocks.org/brattonc/5e5ce9beee483220e2f6) visualization
+
+![](https://raw.githubusercontent.com/s-fujimoto/kibana-devio-plugin/master/devio-demo.gif)
 
 ---
 
